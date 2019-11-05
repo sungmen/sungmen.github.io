@@ -22,7 +22,7 @@ title_separator: "-"
 name : "SungMen"
 description: "It really is the best."
 baseurl: ""# the subpath of your site, e.g. "/blog"
-url: "https://sungmen.github.io
+url: "https://sungmen.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
