@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "SeongMen Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Senior Student"
+  location         : "Seoul, Korea"
   email            :  spe0678@gmail.com
   links:
     - label: "Email"
